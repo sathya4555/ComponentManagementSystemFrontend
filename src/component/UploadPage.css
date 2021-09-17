@@ -1,0 +1,18 @@
+.complete{
+    background-color: blue;
+    margin: 20px 0;
+}
+
+.notcomplete{
+    background-color: brown;
+    margin: 20px 0;
+}
+
+.formDiv{
+    margin-top: 5rem;
+}
+
+.betweenIputs{
+    margin-top: 2rem;
+
+}
