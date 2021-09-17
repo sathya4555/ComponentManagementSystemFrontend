@@ -20,7 +20,7 @@ CRUD operations on users
 ### User functionalities
 Content view
 
-### Implement a content management application which should include following features
+### Features
 Paragraph insertion
 Image upload
 Video upload
