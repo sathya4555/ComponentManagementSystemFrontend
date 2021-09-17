@@ -8,8 +8,8 @@ A content management system is a software that helps users to create, manage, an
 
  
 ### Roles 
-Admin
-User
+##### Admin
+##### User
 
 ### Admin functionalities :
 Content creation
