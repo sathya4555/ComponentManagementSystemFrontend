@@ -12,19 +12,19 @@ Admin,
 User
 
 ### Admin functionalities :
-Content creation
-Content View
-CRUD operations on content
+Content creation,
+Content View,
+CRUD operations on content,
 CRUD operations on users
 
 ### User functionalities
 Content view
 
 ### Features
-Paragraph insertion
-Image upload
-Video upload
-Pdf upload
-External link
+Paragraph insertion,
+Image upload,
+Video upload,
+Pdf upload,
+External link,
 Quiz card
 
